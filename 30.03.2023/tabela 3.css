@@ -1,0 +1,8 @@
+table, th, td{
+    border: solid black 3px;
+    background-color: aquamarine;
+}
+
+table{
+    width: 300px;
+}

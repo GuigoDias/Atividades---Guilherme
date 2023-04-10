@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+h1{
+    font-size: 2em;
+    color: darkgreen;
+}
+
+h2{
+    color: green;
+}
+
+.topico{
+    text-align: right;
+}
+
+.topico2{
+    text-align: center;
+}
+
+.prgf{
+    color: red;
+}
+
+.prgf2{
+    text-align: justify;
+}
+
+#tituloPrincipal{
+    background-color: darkgreen;
+    color: white;
+text-align: center;
+}

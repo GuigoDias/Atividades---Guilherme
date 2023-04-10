@@ -1,0 +1,29 @@
+table, td, th{
+    border: gray 3px solid ridge;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+td{
+    border-top: 1px gray solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+.clube{
+    width: 200px;
+    text-align: left;
+}
